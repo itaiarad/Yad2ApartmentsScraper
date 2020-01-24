@@ -1,0 +1,1 @@
+# Yad2ApartmentsScraper
